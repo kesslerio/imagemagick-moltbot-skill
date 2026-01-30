@@ -1,6 +1,6 @@
-# ImageMagick Moltbot Skill
+# ImageMagick OpenClaw Skill
 
-Comprehensive ImageMagick operations for Moltbot — background removal, resizing, format conversion, watermarks, thumbnails, and more.
+Comprehensive ImageMagick operations for OpenClaw — background removal, resizing, format conversion, watermarks, thumbnails, and more.
 
 ## Quick Start
 

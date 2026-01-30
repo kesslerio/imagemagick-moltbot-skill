@@ -1,6 +1,6 @@
-# ImageMagick Moltbot Skill
+# ImageMagick OpenClaw Skill
 
-Comprehensive ImageMagick operations for image manipulation in Moltbot.
+Comprehensive ImageMagick operations for image manipulation in OpenClaw.
 
 ## Installation
 

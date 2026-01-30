@@ -1,6 +1,6 @@
 {
-  "name": "imagemagick-moltbot-skill",
-  "description": "Comprehensive ImageMagick operations for Moltbot — bg removal, resizing, format conversion, color adjustments, watermarks, and more",
+  "name": "imagemagick-openclaw-skill",
+  "description": "Comprehensive ImageMagick operations for OpenClaw — bg removal, resizing, format conversion, color adjustments, watermarks, and more",
   "keywords": ["image", "imagemagick", "convert", "transparent", "resize", "convert", "watermark", "thumbnail", "icons"],
   "scripts": {
     "remove-bg": "./scripts/remove-bg.sh"
